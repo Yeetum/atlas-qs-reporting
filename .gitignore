@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore for dev
+BTC-USD.algo.v3.baseline.csv
+BTC-USD.algo.v3.strategy.csv
 # C extensions
 *.so
 
